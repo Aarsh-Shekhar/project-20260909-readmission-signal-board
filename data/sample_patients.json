@@ -1,0 +1,146 @@
+[
+  {
+    "id": "patient-001",
+    "exposure": 70298,
+    "signal": 0.195,
+    "urgency": 3
+  },
+  {
+    "id": "patient-002",
+    "exposure": 16226,
+    "signal": 0.268,
+    "urgency": 9
+  },
+  {
+    "id": "patient-003",
+    "exposure": 73721,
+    "signal": 0.444,
+    "urgency": 3
+  },
+  {
+    "id": "patient-004",
+    "exposure": 30842,
+    "signal": 0.733,
+    "urgency": 1
+  },
+  {
+    "id": "patient-005",
+    "exposure": 35692,
+    "signal": 0.616,
+    "urgency": 3
+  },
+  {
+    "id": "patient-006",
+    "exposure": 78667,
+    "signal": 0.883,
+    "urgency": 7
+  },
+  {
+    "id": "patient-007",
+    "exposure": 48934,
+    "signal": 0.336,
+    "urgency": 7
+  },
+  {
+    "id": "patient-008",
+    "exposure": 10951,
+    "signal": 0.137,
+    "urgency": 2
+  },
+  {
+    "id": "patient-009",
+    "exposure": 86892,
+    "signal": 0.285,
+    "urgency": 7
+  },
+  {
+    "id": "patient-010",
+    "exposure": 17564,
+    "signal": 0.534,
+    "urgency": 5
+  },
+  {
+    "id": "patient-011",
+    "exposure": 6448,
+    "signal": 0.48,
+    "urgency": 7
+  },
+  {
+    "id": "patient-012",
+    "exposure": 86169,
+    "signal": 0.7,
+    "urgency": 3
+  },
+  {
+    "id": "patient-013",
+    "exposure": 25505,
+    "signal": 0.336,
+    "urgency": 3
+  },
+  {
+    "id": "patient-014",
+    "exposure": 81401,
+    "signal": 0.481,
+    "urgency": 9
+  },
+  {
+    "id": "patient-015",
+    "exposure": 76143,
+    "signal": 0.785,
+    "urgency": 4
+  },
+  {
+    "id": "patient-016",
+    "exposure": 12703,
+    "signal": 0.786,
+    "urgency": 7
+  },
+  {
+    "id": "patient-017",
+    "exposure": 55730,
+    "signal": 0.852,
+    "urgency": 8
+  },
+  {
+    "id": "patient-018",
+    "exposure": 72332,
+    "signal": 0.258,
+    "urgency": 1
+  },
+  {
+    "id": "patient-019",
+    "exposure": 51226,
+    "signal": 0.828,
+    "urgency": 4
+  },
+  {
+    "id": "patient-020",
+    "exposure": 55876,
+    "signal": 0.478,
+    "urgency": 2
+  },
+  {
+    "id": "patient-021",
+    "exposure": 85483,
+    "signal": 0.69,
+    "urgency": 5
+  },
+  {
+    "id": "patient-022",
+    "exposure": 85669,
+    "signal": 0.783,
+    "urgency": 6
+  },
+  {
+    "id": "patient-023",
+    "exposure": 13714,
+    "signal": 0.925,
+    "urgency": 1
+  },
+  {
+    "id": "patient-024",
+    "exposure": 15672,
+    "signal": 0.113,
+    "urgency": 4
+  }
+]
